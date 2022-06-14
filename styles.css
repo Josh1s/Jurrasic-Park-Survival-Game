@@ -1,0 +1,68 @@
+body {
+    background-color: #94C973;
+    color: #94C973;
+    text-align: center;
+}
+
+button {
+	height:40px;
+}
+
+.title {
+    font-size: 50px; 
+    background-color: black;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    justify-content:space-around;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+img {
+    height: 350px;
+    border:10px dotted black;
+    margin:10px;
+} 
+.part-2 {
+	display:none;
+} 
+
+.part-3{
+	display:none;
+}
+.part-4{ 
+	display:none;
+}
+.option-1{
+	display:none;
+}
+.option-1-1 {
+	display:none;
+} 
+.option-2{
+	display:none;
+}
+.option-2-1{
+	display:none;
+}
+.option-2-2{
+	display:none;
+} 
+.option-2-3{
+	display:none;
+}
+.option-2-4{
+	display:none;
+}
+.title{
+ font-family: 'Shadows Into Light', cursive;
+}
